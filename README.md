@@ -1,5 +1,5 @@
 
-`Bad Programmer`
+![image](https://github.com/Zedicia/Zedicia/blob/main/Assets/Banner.png)
 # Projects
 - Zed's World
 
