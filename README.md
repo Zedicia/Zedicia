@@ -1,7 +1,7 @@
 
 ![image](https://github.com/Zedicia/Zedicia/blob/main/Assets/Banner.png)
 # Projects
-- Zed's World
+- Zed's World (Unity Game) 
 
 # Links
 |||
