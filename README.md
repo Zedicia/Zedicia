@@ -9,7 +9,7 @@ Im a 20 y/o hobby programmer. Programmed for about 5 years with various language
 - COBOL (just enough to say i can)
 
 # Projects
-- Zed's World (Unity Game) 
+
 
 # Links
 |||
