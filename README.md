@@ -1,7 +1,7 @@
 
 ![image](https://github.com/Zedicia/Zedicia/blob/main/Assets/Banner.png)
 # About me
-Im a 20 y/o hobby programmer. Programmed for about 5 years with various languages.
+Im a 21 y/o hobby programmer. Programmed for about 5 years with various languages.
 #### Langs
 - c#
 - c++
