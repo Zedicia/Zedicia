@@ -11,4 +11,6 @@ Im a 21 y/o hobby programmer. Programmed for about 5 years with various language
 - COBOL (just enough to say i can)
 
 # Projects
-- So many but will they be finished is the question
+- Unity 2D survival mutiplayer game
+- Real time AI chatbot
+- Home music streaming app
