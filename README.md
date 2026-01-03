@@ -1,7 +1,7 @@
 
 ![image](https://github.com/Zedicia/Zedicia/blob/main/Assets/Banner.png)
 # About me
-Im a 21 y/o hobby programmer. Programmed for about 5 years with various languages.
+Im a 22 y/o hobby programmer. Programmed for about 5 years with various languages.
 #### Langs
 - c#
 - c++
@@ -11,6 +11,5 @@ Im a 21 y/o hobby programmer. Programmed for about 5 years with various language
 - COBOL (just enough to say i can)
 
 # Projects
-- Unity 2D survival mutiplayer game
-- Real time AI chatbot
 - Home music streaming app
+- Random bs scripts that do silly things
